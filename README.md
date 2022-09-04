@@ -16,8 +16,14 @@ Iremos resolver algumas questões de progamação dinâmica do Codeforces, um si
 O Video está salvo na pasta video
 ## Screenshots
 
-### Qestão_XXX-Y
+### Qestão K-periodic Garland
+Enunciado: https://codeforces.com/contest/1353/problem/E
 
+No Terminal:
+![](./screenshots/garland.png)
+
+Link do Accepted: https://codeforces.com/contest/1353/submission/170853288
+![Questao Resolvida](./screenshots/garland_AC.png)
 ## Instalação 
 **Linguagem**: C++, Python3<br>
 **Framework**: N/A<br>
