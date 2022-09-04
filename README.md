@@ -1,45 +1,40 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+#  PD_ProblemsUpsolving
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: DP<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+|Matrícula | Aluno | Usuario Codeforces
+| -- | -- | -- |
+| 18/0018159  |  Guilherme Veríssimo Cerveira Braz | braz
+| 18/0108344  |  Rafael Berto Pereira | RafaelBP02
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Iremos resolver algumas questões de progamação dinâmica do Codeforces, um site de questões de programação para competição. O trabalho será dividido em pastas onde cada uma contém a resolução da questão em C++, o binario, e um caso de teste in.txt
 
+## Vídeo
+O Video está salvo na pasta video
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Qestão_XXX-Y
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++, Python3<br>
+**Framework**: N/A<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+abra o terminal dentro da pasta da respectiva questão e rode
 
+### C++
+```
+g++ -o questao (nome da solução).C 
+```
+```
+./questao < in.txt
+```
+### Python
+```
+python3 (nome da solução).py < teste
+```
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+N/A
