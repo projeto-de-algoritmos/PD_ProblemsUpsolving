@@ -24,6 +24,24 @@ No Terminal:
 
 Link do Accepted: https://codeforces.com/contest/1353/submission/170853288
 ![Questao Resolvida](./screenshots/garland_AC.png)
+
+### Questao Dice Combinations
+Enunciado: https://cses.fi/problemset/task/1633
+
+No Terminal:
+![](./screenshots/dice.png)
+
+Link do Accepted: https://cses.fi/problemset/result/4567884/
+![Questao Resolvida](./screenshots/diceCombinations_AC.png)
+
+### Questao Coin Combinations I
+Enunciado: https://cses.fi/problemset/task/1635
+
+No Terminal:
+![](./screenshots/coin.png)
+
+Link do Accepted: https://cses.fi/problemset/result/4568191/
+![Questao Resolvida](./screenshots/coinCombination_AC.png)
 ## Instalação 
 **Linguagem**: C++, Python3<br>
 **Framework**: N/A<br>
