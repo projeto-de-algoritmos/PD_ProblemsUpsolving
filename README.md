@@ -10,10 +10,11 @@
 | 18/0108344  |  Rafael Berto Pereira | RafaelBP02
 
 ## Sobre 
-Iremos resolver algumas questões de progamação dinâmica do Codeforces, um site de questões de programação para competição. O trabalho será dividido em pastas onde cada uma contém a resolução da questão em C++, o binario, e um caso de teste in.txt
+Iremos resolver algumas questões de progamação dinâmica do Codeforces e CSES, sites de questões de programação para competição. O trabalho será dividido em pastas onde cada uma contém a resolução da questão em C++, o binario, e um caso de teste in.txt
 
 ## Vídeo
 O Video está salvo na pasta video
+Link para acesso no youtube: https://youtu.be/UDSKXXmTIls
 ## Screenshots
 
 ### Qestão K-periodic Garland
@@ -43,7 +44,7 @@ No Terminal:
 Link do Accepted: link não é público
 ![Questao Resolvida](./screenshots/coinCombination_AC.png)
 ## Instalação 
-**Linguagem**: C++, Python3<br>
+**Linguagem**: C++<br>
 **Framework**: N/A<br>
 
 ## Uso 
@@ -55,10 +56,6 @@ g++ -o questao (nome da solução).C
 ```
 ```
 ./questao < in.txt
-```
-### Python
-```
-python3 (nome da solução).py < teste
 ```
 ## Outros 
 N/A
